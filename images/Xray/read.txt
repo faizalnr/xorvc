@@ -1,0 +1,4 @@
+# This is a sample output folder created using the XOR_VC.py python code
+# The input image is added in the images folder
+# The generates 3 shares and reconstructed image is saved here
+# The XOR_VC_RA python code, used these images along with the input image for the Analysis
